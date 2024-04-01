@@ -1,1 +1,6 @@
 c:\users\udachias\documents\visual studio 2012\Projects\QuestionFour\QuestionFour\bin\Debug\QuestionFour.exe.config
+c:\users\udachias\documents\visual studio 2012\Projects\QuestionFour\QuestionFour\bin\Debug\QuestionFour.exe
+c:\users\udachias\documents\visual studio 2012\Projects\QuestionFour\QuestionFour\bin\Debug\QuestionFour.pdb
+c:\users\udachias\documents\visual studio 2012\Projects\QuestionFour\QuestionFour\obj\Debug\QuestionFour.csprojResolveAssemblyReference.cache
+c:\users\udachias\documents\visual studio 2012\Projects\QuestionFour\QuestionFour\obj\Debug\QuestionFour.exe
+c:\users\udachias\documents\visual studio 2012\Projects\QuestionFour\QuestionFour\obj\Debug\QuestionFour.pdb
