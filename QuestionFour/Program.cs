@@ -37,7 +37,7 @@ namespace QuestionFour
 
             Console.WriteLine("Result:->");
             Console.WriteLine("*********");
-            Console.WriteLine("Area of Cycle of radius {0} is {1}\nThe Area of rectangle of longest side {2} & shortest side {3} is {4}\nAnd the area of square of side {5} is {6}", radius, area_cycle,longest_side,shortest_side, area_reatangle,longest_side,area_square);
+            Console.WriteLine(string.Format("Area of Cycle of radius {0} is {1}\nThe Area of rectangle of longest side {2} & shortest side {3} is {4}\nAnd the area of square of side {5} is {6}", radius, area_cycle,longest_side,shortest_side, area_reatangle,longest_side,area_square));
             Console.ReadKey();
         }
     }
